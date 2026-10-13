@@ -77,6 +77,24 @@ Hentikan server dengan `Ctrl + C`.
 
 Contoh: http://localhost:8080/products?id=PRD-01
 
+## Screenshot
+
+**Daftar produk** — `GET /products`
+
+![Daftar produk](docs/screenshots/products.png)
+
+**Detail produk** — `GET /products?id=PRD-01`
+
+![Detail produk](docs/screenshots/product-detail.png)
+
+**Produk tidak ditemukan** — `GET /products?id=PRD-99` (HTTP 404)
+
+![Produk tidak ditemukan](docs/screenshots/product-not-found.png)
+
+**Daftar kategori** — `GET /categories`
+
+![Daftar kategori](docs/screenshots/categories.png)
+
 ## Data Awal
 
 **Produk**

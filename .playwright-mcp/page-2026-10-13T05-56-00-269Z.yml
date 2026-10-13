@@ -1,0 +1,6 @@
+- generic [active] [ref=f3e1]:
+  - heading "Daftar Kategori" [level=2] [ref=f3e2]
+  - list [ref=f3e3]:
+    - listitem [ref=f3e4]: 1 - Elektronik
+    - listitem [ref=f3e5]: 2 - Aksesoris Komputer
+    - listitem [ref=f3e6]: 3 - Peralatan Gaming

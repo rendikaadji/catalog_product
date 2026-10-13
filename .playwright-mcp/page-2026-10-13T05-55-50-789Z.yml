@@ -1,0 +1,24 @@
+- generic [active] [ref=e1]:
+  - heading "=== DAFTAR KATALOG PRODUK (WEB) ===" [level=2] [ref=e2]
+  - table [ref=e3]:
+    - rowgroup [ref=e4]:
+      - row [ref=e5]:
+        - columnheader "ID Produk" [ref=e6]
+        - columnheader "Nama Produk" [ref=e7]
+        - columnheader "Harga Satuan" [ref=e8]
+      - row [ref=e9]:
+        - cell "PRD-01" [ref=e10]
+        - cell "Keyboard Mechanical" [ref=e11]
+        - cell "Rp450000" [ref=e12]
+      - row [ref=e13]:
+        - cell "PRD-02" [ref=e14]
+        - cell "Mouse Wireless Silent" [ref=e15]
+        - cell "Rp175000" [ref=e16]
+      - row [ref=e17]:
+        - cell "PRD-03" [ref=e18]
+        - cell "Monitor Gaming 24 Inch" [ref=e19]
+        - cell "Rp2100000" [ref=e20]
+      - row [ref=e21]:
+        - cell "PRD-04" [ref=e22]
+        - cell "Laptop Acer Predator Helios Neo 16" [ref=e23]
+        - cell "Rp20000000" [ref=e24]
